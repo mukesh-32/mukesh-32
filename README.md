@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://mukeshh-portfolio.netlify.app/](https://mukeshh-portfolio.netlify.app/)
+- 👨‍💻 To Know More [https://mukeshh-portfolio.netlify.app/](https://mukeshh-portfolio.netlify.app/)
 
 - 📫 How to reach me **mukeshnecit@gmail.com**
 
